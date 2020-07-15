@@ -50,5 +50,5 @@ function checkDatabase() {
 
 setInterval(() =>{ 
   window.addEventListener("online", checkDatabase);
- }, 5000);
+ }, 1000);
 
